@@ -1,1 +1,2 @@
 # Analisis-y-Diseño-de-Algoritmos
+Este repositorio tiene como fin abordar las diferentes tematicas abordadas en el curso de analisis y diseño de algoritmos,aplicando sus tecnicas y diferentes algoritmos
